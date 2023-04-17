@@ -19,5 +19,5 @@ sudo flatpak update
 
 echo'';
 echo'Updating Andaconda if there is an update';
-conda update conda
-conda update anaconda
+#conda update conda
+#conda update anaconda
