@@ -9,9 +9,9 @@ echo ''
 echo 'apt upgrade'
 sudo apt upgrade
 
-#echo '';
-#echo 'Snap update';
-#sudo snap refresh
+echo '';
+echo 'Snap update';
+sudo snap refresh
 
 #echo '';
 #echo 'Flatpak update';
